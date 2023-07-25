@@ -215,6 +215,8 @@ https://e-pimorfosi.cti.gr/moodle-b2/mod/assign/view.php?id=6578
 Περιοδικότητα, Συναντήσεις λεπτοδείκτη ωροδείκτη, Ομαλή κυκλική Κίνηση, εξαποστάσεως εκπαίδευση
 ### Για το υλικό του OER και το σχέδιο δείγματος 
 [link](https://docs.google.com/document/d/11OGCYG0YkGgQ_luBN-qxhpRDDCtWE5cW/edit)
+### Για το σενάριο 
+
 
 # OER 10
 
