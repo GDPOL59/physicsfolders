@@ -307,7 +307,9 @@ Language: ΓΛΩΣΣΑ (αξιοποίηση της νεοελληνικής γ�
 Ορμή, Διατήρησης της ορμής, Προσομοιώσεις, εξαποστάσεως εκπαίδευση
 ### Για το υλικό του OER και το σχέδιο δείγματος 
 [link](https://docs.google.com/document/d/1PLq1aCtrZQgR2NwR8qk7Yz34OfYOfOk1/edit)
-### Για το σενάριο 
+### Για το σενάριο
+
+https://github.com/GDPOL59/physicsfolders/blob/main/%CE%A3%CE%B5%CE%BD%CE%AC%CF%81%CE%B9%CE%BF_%CE%BF%CF%81%CE%BC%CE%AE_%CE%BA%CE%B1%CE%B9_%CE%B4%CE%B9%CE%B1%CF%84%CE%AE%CF%81%CE%B7%CF%83%CE%AE_%CF%84%CE%B7%CF%82_%20%CE%9A%CE%B1%CF%84%CE%AD%CF%81%CE%B7%CF%82_%CE%A0%CE%BF%CE%BB%CF%85%CE%B6%CF%8E%CE%B7%CF%82_%CE%95%CF%80%CE%B9%CE%BC%CF%8C%CF%81%CF%86%CF%89%CF%83%CE%B7.pdf
 
 
 # OER 12 
