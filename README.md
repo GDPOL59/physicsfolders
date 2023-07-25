@@ -245,6 +245,7 @@ https://e-pimorfosi.cti.gr/moodle-b2/mod/assign/view.php?id=6578
 [link](https://docs.google.com/document/d/1sMnL0VggT4q8Dh8GpGHqZQTOv2u3csEp/edit)
 ### Για το σενάριο
 
+https://github.com/GDPOL59/physicsfolders/blob/main/%CE%95%CF%80%CE%AF%CE%BB%CF%85%CF%83%CE%B7_%CE%A0%CF%81%CE%BF%CE%B2%CE%BB%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82_%CE%A8%CE%B7%CF%86%CE%B9%CE%B1%CE%BA%CF%8C_%CE%BC%CE%AC%CE%B8%CE%B7%CE%BC%CE%B1_%CE%9F%CE%BC%CE%B1%CE%BB%CE%AE_%CE%9A%CF%85%CE%BA%CE%BB%CE%B9%CE%BA%CE%AE_%CE%9A%CE%AF%CE%BD%CE%B7%CF%83%CE%B7_%20%CE%9A%CE%B1%CF%84%CE%AD%CF%81%CE%B7%CF%82_%CE%A0%CE%BF%CE%BB%CF%85%CE%B6%CF%8E%CE%B7%CF%82.pdf
 
 # OER 11 
 
