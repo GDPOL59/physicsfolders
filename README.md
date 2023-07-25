@@ -29,7 +29,8 @@ http://www.epimorfosi.edu.gr/epimorfosi/library/kp/index.php?dir=%2F2.%CE%94%CE%
 ### Βαθμίδα Εκπαίδευσης: Δευτεροβάθμια  Εκπαίδευση
 ### Όνομα/Τίτλος OER: ΤΟ ΑΤΟΜΟ ΤΟΥ BOHR
 ### Λέξεις κλειδιά: ατομικά πρότυπα, συνθήκες Bohr, πολλαπλές αναπαραστήσεις.
-
+### Για το υλικό του OER και το σχεδιο δειγματος 
+[λινκ](https://drive.google.com/drive/folders/1d64zCuBdEJKEVoJ4to2ZkNnaiEBXkQN9)
 # OER 2 
 
 # OER 3 
