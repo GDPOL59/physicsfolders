@@ -119,6 +119,7 @@ file:///C:/Users/%CE%932/Downloads/6322f75411ef9%20(1).pdf (αντιγραφή -
 ### Για το υλικό του OER και το σχέδιο δείγματος 
 [link](https://drive.google.com/drive/folders/1DzNpn_3KU1sU7J1Oy-1WDCcRUrgP5WIC)
 
+ΓΙΑ ΤΗ ΛΕΙΡΟΥΡΓΙΑ ΤΗς ΕΦΑΡΜΟΓΗΣ FLASH ΑΠΑΙΤΕΙΤΑΙ Η ΕΦΑΡΜΟΓΗ https://ruffle.rs/demo/
 # OER 6 
 ## Δημιουργός/οί: Γεώργιος Πολυζώης, Φαρσάρη Ελένη
 ### Χρονολογία: 2012
@@ -139,6 +140,8 @@ http://events.di.ionio.gr/cie/index.php/el/2020-09-08-12-49-30/cie-2012
 ### Λέξεις κλειδιά: Έννοια κατακόρυφου, Διαισθητική φυσική, Προσομοιώσεις, Προσχολική 
 ### Για το υλικό του OER και το σχέδιο δείγματος 
 [link](https://drive.google.com/drive/folders/1Paluvmiy2lvsALQgm8luuawOVSwNr8Zr)
+
+ΓΙΑ ΤΗ ΛΕΙΡΟΥΡΓΙΑ ΤΗς ΕΦΑΡΜΟΓΗΣ FLASH ΑΠΑΙΤΕΙΤΑΙ Η ΕΦΑΡΜΟΓΗ https://ruffle.rs/demo/
 
 # OER 7 
 
