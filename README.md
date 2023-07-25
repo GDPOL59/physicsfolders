@@ -144,6 +144,25 @@ http://events.di.ionio.gr/cie/index.php/el/2020-09-08-12-49-30/cie-2012
 ΓΙΑ ΤΗ ΛΕΙΡΟΥΡΓΙΑ ΤΗς ΕΦΑΡΜΟΓΗΣ FLASH ΑΠΑΙΤΕΙΤΑΙ Η ΕΦΑΡΜΟΓΗ https://ruffle.rs/demo/
 
 # OER 7 
+## Δημιουργός/οί: Γεώργιος Πολυζώης, Βαλανίδης Νίκος
+### Χρονολογία: 2010
+### Υπερσύνδεσμος πρόσβασης του OER:
+
+https://www.researchgate.net/profile/Maria-Avgerinou-/publication/313649903_Visual_Literacy_in_the_21st_Century_Trends_Demands_and_Capacities/links/58a18539aca272046aad8cf1/Visual-Literacy-in-the-21st-Century-Trends-Demands-and-Capacities.pdf#page=119
+
+Το OER καταγράφηκε στο συλλογικό τόμου: Visual Literacy in the 21st Century: Trends, Demands and Capacities, (978-0-9816833-9-3) σελίδες: 117-121
+### Σκοπός/πλαίσιο δημιουργίας του OER: 
+Students at the upper secondary school level should have mastery and feel comfortable in applying the mathematics that seem necessary and useful for solving chemistry problems. Thus, we propose and try to provide specific examples of how to invest on graphical representations for visualizing the solutions of simple or complex chemical problems relating to solubility and mixing of several water solutions. We expect that these representations can be employed by chemistry teachers as powerful tools for correctly conceptualizing simple as well complex chemical problems that appear frequently both in mathematics and chemistry textbooks.
+### Γνωστικό/ά Αντικείμενο/α:
+Χημεία Α΄ Λυκείου
+### Βαθμίδα Εκπαίδευσης: 
+Δευτεροβάθμια  Εκπαίδευση
+### Όνομα/Τίτλος OER: 
+Visualizing The Solutions Of Chemical Problems Relating To Solubility
+### Λέξεις κλειδιά: 
+Visual learning, Chemistry, Solubility, graphical representation
+### Για το υλικό του OER και το σχέδιο δείγματος 
+[link](https://drive.google.com/drive/folders/1iUD_Z6PJ-O9lIu5ORoDhoQukBJk-L_iR)
 
 # OER 8
 
