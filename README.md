@@ -37,7 +37,7 @@ http://www.epimorfosi.edu.gr/epimorfosi/library/kp/index.php?dir=%2F2.%CE%94%CE%
 [link](https://drive.google.com/drive/folders/1d64zCuBdEJKEVoJ4to2ZkNnaiEBXkQN9)
 
 # OER 2
-### Δημιουργός/οί: Γεώργιος Πολυζώης,  Παντελής Μπουμπούλης
+## Δημιουργός/οί: Γεώργιος Πολυζώης,  Παντελής Μπουμπούλης
 ### Χρονολογία: 2016
 ### Υπερσύνδεσμος πρόσβασης του OER:
 https://physlab.edu.uoi.gr/wp-content/uploads/2020/05/2016-synedrio-panekfe-praktika.pdf
