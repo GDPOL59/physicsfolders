@@ -120,7 +120,7 @@ https://www.etpe.gr/conferences/6o-panellinio-synedrio-entaxi-kai-chrisi-ton-tpe
 Δευτεροβάθμια Εκπαίδευση
 ### Όνομα/Τίτλος OER: Ισορροπία σώματος
 ### Λέξεις κλειδιά:
-Ισορροπία σώματος, ταση σκοινιού, διανυσματική αναπαρασταση
+Ισορροπία σώματος, τάση σκοινιού, διανυσματική αναπαράσταση
 ### Για το υλικό του OER, το σχέδιο δείγματος και την άδεια χρήσης:
 [link](https://drive.google.com/drive/u/0/folders/1tkYrUt5oL1BROySWh1zJlclSWCFQ10vM)
 
