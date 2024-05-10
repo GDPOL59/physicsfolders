@@ -105,6 +105,6 @@ https://www.etpe.gr/conferences/6o-panellinio-synedrio-entaxi-kai-chrisi-ton-tpe
 Δυνατότητες και Σχεδιασμός Πολυμέσων με την Χρήση Πολλαπλών Αναπαραστάσεων στην Διδασκαλία των Κυμάτων
 ### Λέξεις κλειδιά:
 Κύματα, Πειράματα, προσομοιώσεις
-###Για το υλικό του OER, το σχέδιο δείγματος και την άδεια χρήσης: 
+### Για το υλικό του OER, το σχέδιο δείγματος και την άδεια χρήσης: 
 [link](https://drive.google.com/drive/folders/1-s3AWl-l7_gPzaKaCTNlEAN7putVs-Fc)
 
