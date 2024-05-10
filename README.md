@@ -37,7 +37,7 @@ https://physlab.edu.uoi.gr/wp-content/uploads/2020/05/2016-synedrio-panekfe-prak
 Επανεξετάζοντας την κινηματική με το λογισμικό GeoGebra: ο αρχικός σχεδιασμός
 ### Λέξεις κλειδιά: 
 κινηματική, λύση προβλήματος, πολλαπλές εξωτερικές αναπαραστάσεις, GeoGebra, STEM
-### Για το υλικό του OER και το σχέδιο δείγματος 
+### Για το υλικό του OER, το σχέδιο δείγματος και την άδεια χρήσης:
 [link](https://drive.google.com/drive/folders/1_0aWCrRwRJm6jhkfKMIzOwS8mZEEoWAD)
 
 # OER 3 
