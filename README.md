@@ -109,7 +109,7 @@ https://www.etpe.gr/conferences/6o-panellinio-synedrio-entaxi-kai-chrisi-ton-tpe
 [link](https://drive.google.com/drive/folders/1QQ8Lx8OMSfJUe9N7J_W1iGYBrvMmSHZs)
 
 # OER 5
-## Δημιουργός/οί: Γεώργιος Πολυζώης
+## Δημιουργός: Γεώργιος Πολυζώης
 ### Χρονολογία: 2023
 ### Υπερσύνδεσμος πρόσβασης του OER: [link](https://drive.google.com/drive/u/0/folders/1tkYrUt5oL1BROySWh1zJlclSWCFQ10vM)
 ### Σκοπός/πλαίσιο δημιουργίας του OER:
